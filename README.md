@@ -1,7 +1,7 @@
 # PHP Coding Competition
 
 ## Challenge 5: First to complete hash cracker
-- 1,000 hashed common passwords to crack
+- 100 hashed common passwords to crack
   - src/Password/Hash/PasswordsToCrack.txt
 - Randomly selected from 1,000,000 common passwords
   - src/Password/Common/10-million-password-list-top-1000000.txt
